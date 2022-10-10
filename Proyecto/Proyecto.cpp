@@ -7,7 +7,7 @@ int main()
     int saldo_inicial = 1000, opc;
     float extra, saldo = 0, retiro;
 
-    cout << "\tHola mundo1" << endl;
+    cout << "\tTRABAJO GRUPAL " << endl;
     cout << "\tBienvenido a su Cajero Virtual" << endl;
     cout << "1. Ingresar dinero en cuenta" << endl;
     cout << "2. Retirar dinero de la cuenta" << endl;
